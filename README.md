@@ -29,6 +29,10 @@ G.add_edges_from([(1, 2), (2, 3), (3, 1)])
 nx.draw(G, with_labels=True)
 plt.show()
 ```
+<p align="center">
+  <img src="network.png" width="45%" />
+  <img src="cnn.png" width="45%" />
+</p>
 
 ## Applications Explored
 - **Graph Visualization**: Understanding how CNN and GNN architectures can be represented as graphs.
