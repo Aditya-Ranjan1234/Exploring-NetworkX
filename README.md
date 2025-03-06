@@ -30,8 +30,8 @@ nx.draw(G, with_labels=True)
 plt.show()
 ```
 <p align="center">
-  <img src="network.png" width="45%" />
-  <img src="cnn.png" width="45%" />
+  <img src="network.png" width="25%" />
+  <img src="cnn.png" width="65%" />
 </p>
 
 ## Applications Explored
